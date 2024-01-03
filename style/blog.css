@@ -1,3 +1,6 @@
+*{
+    font-style: italic;
+}
 h3{
     text-align: center;
     font-weight: 800;
@@ -38,4 +41,9 @@ h1{
     color: rgba(7, 95, 228, 0.966);
     font-weight: 700;
     font-size: 24px;
+}
+.External{
+    background-color: aqua;
+    font-weight: bold;
+    font-style: italic;
 }
