@@ -5,6 +5,9 @@ h3{
     font-style: initial;
     color: tomato;
 }
+p{
+    text-align: justify;
+}
 h4{
     text-align: center;
 }
@@ -15,10 +18,24 @@ h4{
     border-radius: 20px;
     margin: 10px 200px 10px 200px;
     padding: 2px;
-    box-shadow: 10px 5px rgba(0, 0, 0, 0.356);
+    box-shadow: 10px 5px rgba(27, 2, 2, 0.452);
 }
 ul{
     text-align: center;
-    color: red;
+    color: rgb(241, 2, 2);
+    font-size: 24px;
+    font-style: italic;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+    color: rgb(7, 173, 21);
+    background-color: bisque;
+    text-decoration: underline;
+    margin: 10px 100px 10px 100px;
+}
+#intro{
+    color: rgba(7, 95, 228, 0.966);
+    font-weight: 700;
     font-size: 24px;
 }
